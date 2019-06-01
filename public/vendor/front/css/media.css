@@ -1,0 +1,227 @@
+/*----- 4K Monitors -----*/
+@media screen and (max-width: 2560px) {
+	
+}
+
+/*----- Laptop L -----*/
+@media screen and (max-width: 1440px) {
+	
+}
+
+@media screen and (max-width: 1200px) {
+	
+}
+
+
+/*----- Laptop -----*/
+@media screen and (max-width: 1024px) {
+	h1 {
+		font-size: 75px!important;
+	}
+}
+
+
+@media screen and (max-width: 992px) {
+	.res-dblock {
+		display: block;
+	}
+	.res-dnone {
+		display: none;
+	}
+	.res-mb-4 {
+		margin-bottom: 2rem;
+	}
+	.block1,
+	.block2,
+	.block3,
+	.block4 {
+		top: 0;
+		right: 0;
+		left: 0;
+		text-align: center;
+		margin: 0 auto 2rem;
+	}
+	.figure1,
+	.figure2,
+	.figure3,
+	.figure4 {
+		display: none;
+	}
+	.section3 {
+		text-align: center;
+		padding-bottom: 100px;
+	}
+
+
+}
+
+
+/*----- Tablet -----*/
+@media screen and (max-width: 768px) {
+	.main-ul {
+		flex-direction: column;
+		display: flex;
+		padding: 1rem 8rem 0 1rem;
+	}
+
+	.main-ul li a {
+		padding: 0;
+	}
+	#menu {
+		flex-direction: column;
+		height: 100%;
+	}
+	.responsive-nav {
+		display: flex;
+	}
+	.notresponsive-nav {
+		display: none;
+	}
+	.touch-side-swipe {
+		background: #fff!important;
+	}
+	.link {
+		color: #222!important;
+	}
+	.top-div {
+		display: flex;
+	}
+	.header-img {
+		max-width: 100%;
+		display: none;
+	}
+	.sec-header-img {
+		display: block;
+	}
+	.sec-header-part {
+		display: none!important;
+	}
+	.main-ul li {
+		padding: 1rem 0;
+	}
+	h1 {
+		font-size: 50px!important;
+	}
+	.height-240 {
+		height: 150px;
+	}
+	.h-240 {
+		height: 150px;
+	}
+	.section4 h3 {
+		font-size: 19px;
+		font-weight: 400;
+	}
+	.res-column {
+		flex-direction: column;
+		text-align: center;
+		justify-content: center;
+	}
+	.bar {
+		width: 258px;
+		margin: 0 auto;
+	}
+	.group {
+		margin-bottom: 1.5rem;
+	}
+	.dialog__content {
+		padding: 2em;
+	}
+	.dialog h2 {
+		font-size: 24px;
+	}
+	.dialog p {
+		font-size: 14px;	
+	}
+	.modalform input {
+		width: 100%;
+	}
+	.group2 {
+		width: 100%;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	
+}
+
+
+/*----- Mobile L -----*/
+@media screen and (max-width: 425px) {
+	footer a {
+		margin: 0;
+	}	
+}
+
+/*----- Mobile M -----*/
+@media screen and (max-width: 375px) {
+	
+}
+
+/*----- Mobile S -----*/
+@media screen and (max-width: 320px) {
+	
+}
+
+
+
+
+
+
+
+
+
+
+/*------------------ MOBILE-FIRST Method ------------------*/
+
+/*----- Mobile S -----*/
+@media screen and (min-width: 320px) {
+	
+}
+
+
+/*----- Mobile M -----*/
+@media screen and (min-width: 375px) {
+	
+}
+
+
+/*----- Mobile L -----*/
+@media screen and (min-width: 425px) {
+	
+}
+
+
+/*----- Tablet -----*/
+@media screen and (min-width: 600px) {
+	
+}
+
+@media screen and (min-width: 768px) {
+	
+}
+
+
+/*----- Laptop -----*/
+@media screen and (min-width: 850px) {
+	
+}
+
+@media screen and (min-width: 1024px) {
+	
+}
+
+
+/*----- Laptop L -----*/
+@media screen and (min-width: 1200px) {
+	
+}
+
+@media screen and (min-width: 1440px) {
+	
+}
+
+/*----- 4K Monitors -----*/
+@media screen and (min-width: 2560px) {
+	
+}
